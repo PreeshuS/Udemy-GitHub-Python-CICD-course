@@ -34,3 +34,7 @@ sed -i 's/_THEME=\".*\"/_THEME=\"bira\"/g' "$HOME/.zshrc"
 
 
 python-software-development-course --> https://github.com/phitoduck/python-software-development-course
+
+https://github.com/google/styleguide/blob/gh-pages/README.md
+
+https://peps.python.org/pep-0008/
