@@ -44,10 +44,13 @@ https://testdriven.io/blog/clean-code-python/
 
 https://martinfowler.com/articles/refactoring-2nd-ed.html
 
-#Format python code settings option
+# Format python code settings option
 ![image](https://github.com/user-attachments/assets/85675987-4b46-4c79-81cf-3c265f01494a)
 
 ![image](https://github.com/user-attachments/assets/2799cd8e-13fb-4849-b5ab-8abf4f3389d8)
+
+![image](https://github.com/user-attachments/assets/fc0bd469-ebc4-46ab-845d-9342375babd0)
+
 
 
 
