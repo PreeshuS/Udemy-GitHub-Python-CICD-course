@@ -41,4 +41,5 @@ https://peps.python.org/pep-0008/
 
 # More content to refer on clean code and refactoring
 https://testdriven.io/blog/clean-code-python/
+
 https://martinfowler.com/articles/refactoring-2nd-ed.html
