@@ -73,6 +73,13 @@ https://ericriddoch.notion.site/Flake8-Part-2-Flake8-plugins-with-Darglint-as-an
 # isort: sorting import statements
 https://ericriddoch.notion.site/isort-sorting-import-statements-4d42577fab484372a0e576a3fbd51a48
 
+# Code metrics” like “cyclomatic complexity” with Radon, Xenon, and McCabe
+https://ericriddoch.notion.site/Code-metrics-like-cyclomatic-complexity-with-Radon-Xenon-and-McCabe-197c5286f12642479e93e73ff4c043d5
+
+
+
+
+
 
 
 
