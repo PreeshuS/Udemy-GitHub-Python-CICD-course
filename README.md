@@ -56,6 +56,9 @@ https://martinfowler.com/articles/refactoring-2nd-ed.html
 
 ![image](https://github.com/user-attachments/assets/fc0bd469-ebc4-46ab-845d-9342375babd0)
 
+# Pylint and black - integrating with VS Code --> install the extension in VSCode for Pylint and Black formatter
+https://ericriddoch.notion.site/Pylint-Part-2-Integrating-with-VS-Code-7ddadf91013c428fbc9cfd0b187a42b4
+
 
 
 
