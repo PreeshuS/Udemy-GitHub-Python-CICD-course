@@ -48,6 +48,8 @@ https://testdriven.io/blog/clean-code-python/
 
 https://martinfowler.com/articles/refactoring-2nd-ed.html
 
+# PYTHON CODE QUALITY TOOL
+
 # Format python code using black in unopiniated way when working in a team a) to fix spacing inconsitencies that arises dring development and b) end disputes in the team.
 # Install black on your own machine and configure it to run on autosave using your VS code settings.
 ![image](https://github.com/user-attachments/assets/85675987-4b46-4c79-81cf-3c265f01494a)
