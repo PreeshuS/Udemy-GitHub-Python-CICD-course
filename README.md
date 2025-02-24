@@ -32,6 +32,10 @@ sed -i 's/\(^plugins=([^)]*\)/\1 python pip pyenv virtualenv web-search zsh-auto
 # set the ZSH_THEME to "bira"
 sed -i 's/_THEME=\".*\"/_THEME=\"bira\"/g' "$HOME/.zshrc"
 
+# connecting to virtual machine
+![image](https://github.com/user-attachments/assets/b9e50f01-0bda-41c2-a627-5ce1c5ecffc2)
+
+
 
 python-software-development-course --> https://github.com/phitoduck/python-software-development-course
 
