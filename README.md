@@ -62,6 +62,13 @@ https://ericriddoch.notion.site/Pylint-Part-2-Integrating-with-VS-Code-7ddadf910
 # Configuring Pylint with a config file and CLI arguments
 https://ericriddoch.notion.site/Pylint-Part-3-Configuring-Pylint-with-a-config-file-and-CLI-arguments-5e022c20773d45d59d0c60b176aca694
 
+# Flake8 Part 1 - Usage and background
+https://ericriddoch.notion.site/Flake8-Part-1-Usage-and-background-fc834288bb3f45cfa15f668b2759691d
+
+# Flake8 Part 2 - Flake8 plugins with Darglint as an example
+https://ericriddoch.notion.site/Flake8-Part-2-Flake8-plugins-with-Darglint-as-an-example-abe1eae877f04e03958f6863073684f9
+
+
 
 
 
