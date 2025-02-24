@@ -70,6 +70,10 @@ https://ericriddoch.notion.site/Flake8-Part-1-Usage-and-background-fc834288bb3f4
 # Flake8 Part 2 - Flake8 plugins with Darglint as an example
 https://ericriddoch.notion.site/Flake8-Part-2-Flake8-plugins-with-Darglint-as-an-example-abe1eae877f04e03958f6863073684f9
 
+# isort: sorting import statements
+https://ericriddoch.notion.site/isort-sorting-import-statements-4d42577fab484372a0e576a3fbd51a48
+
+
 
 
 
