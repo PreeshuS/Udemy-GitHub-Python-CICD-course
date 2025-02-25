@@ -102,6 +102,18 @@ Until recently when I learned about Rough, I've been using Pylint and Flake8 tog
 that soon I can just replace those with a single centralized tool, which is rough anyway.
 
 
+## Github Actions
+
+![image](https://github.com/user-attachments/assets/7b929cdb-b8f7-4388-a141-ea4a57fd6e66)
+In summary, the build job uses this declarative syntax to request that we get a runner with the Ubuntu
+operating system.
+It clones and checks out a branch of our repository.
+It installs Python 3.8.
+It then uses that install of python to pip, install pylint and then finally it executes pylint on our
+code.
+
+
+
 
 
 
