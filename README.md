@@ -79,6 +79,10 @@ https://ericriddoch.notion.site/Code-metrics-like-cyclomatic-complexity-with-Rad
 # Darker: incrementally lint legacy projects
 https://ericriddoch.notion.site/Darker-incrementally-lint-legacy-projects-b7cb39ad606f4c10a8bf81f8274ae6ae
 
+# Ruff: the last Python linter ever?
+https://ericriddoch.notion.site/Ruff-the-last-Python-linter-ever-8918d70b51364350903753e052bf9936
+
+
 
 
 
