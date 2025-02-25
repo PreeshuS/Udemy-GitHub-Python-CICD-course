@@ -93,6 +93,14 @@ https://ericriddoch.notion.site/Pre-commit-hook-roundup-8e7e81f21e0f4586b39daf41
 # This is advanced pre-commit config file
 https://ericriddoch.notion.site/Tour-of-an-advanced-pre-commit-config-file-b1eb139b978b4f5aa56732f6262653ea
 
+disable different hooks depending on the project.
+For example, if I'm not particularly concerned about getting mypy typing exactly right, which I'm
+often not, I'll just disable Mypy for a project and here it's pretty overkill that we're using Flake8
+and Pylint and rough.
+There's not really a reason for us to use all of them at once.
+Until recently when I learned about Rough, I've been using Pylint and Flake8 together, but I'm hoping
+that soon I can just replace those with a single centralized tool, which is rough anyway.
+
 
 
 
