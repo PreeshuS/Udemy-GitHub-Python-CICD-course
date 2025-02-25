@@ -82,6 +82,17 @@ https://ericriddoch.notion.site/Darker-incrementally-lint-legacy-projects-b7cb39
 # Ruff: the last Python linter ever?
 https://ericriddoch.notion.site/Ruff-the-last-Python-linter-ever-8918d70b51364350903753e052bf9936
 
+# adding pre-commit config file to your project file using pre-commit framework which is a CLI tool --> https://pre-commit.com/
+
+https://ericriddoch.notion.site/A-continuous-integration-workflow-with-code-quality-tools-759eca41e28e4c51a352cd922603e520
+https://ericriddoch.notion.site/CI-Approach-1-Writing-a-script-that-calls-each-tool-8bced4f15e314fe9a84445b1ae7546dd
+https://ericriddoch.notion.site/Git-pre-commit-hooks-1210a1cbdfb8436080015df18c91be57
+https://ericriddoch.notion.site/CI-Approach-2-The-pre-commit-framework-f3475c3543de437a9455139e57bc4be4
+https://ericriddoch.notion.site/Pre-commit-hook-roundup-8e7e81f21e0f4586b39daf418ee11ff5
+
+# This is advanced pre-commit config file
+https://ericriddoch.notion.site/Tour-of-an-advanced-pre-commit-config-file-b1eb139b978b4f5aa56732f6262653ea
+
 
 
 
