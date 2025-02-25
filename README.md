@@ -76,6 +76,9 @@ https://ericriddoch.notion.site/isort-sorting-import-statements-4d42577fab484372
 # Code metrics” like “cyclomatic complexity” with Radon, Xenon, and McCabe
 https://ericriddoch.notion.site/Code-metrics-like-cyclomatic-complexity-with-Radon-Xenon-and-McCabe-197c5286f12642479e93e73ff4c043d5
 
+# Darker: incrementally lint legacy projects
+https://ericriddoch.notion.site/Darker-incrementally-lint-legacy-projects-b7cb39ad606f4c10a8bf81f8274ae6ae
+
 
 
 
